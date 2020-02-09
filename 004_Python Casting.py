@@ -1,0 +1,40 @@
+# PYTHON CASTING
+
+# Integers:
+# int() - constructs an integer number from an integer literal, a float literal (by rounding down to the
+# previous whole number), or a string literal (providing the string represents a whole number)
+
+x = int(1)                                              # x will be 1
+y = int(2.8)                                            # y will be 2
+z = int("3")                                            # z will be 3
+print(x)                                                # ans = 1
+print(y)                                                # ans = 2
+print(z)                                                # ans = 3
+
+# Floats:
+# float() - constructs a float number from an integer literal, a float literal or a string literal
+# (providing the string represents a float or an integer)
+
+x = float(1)                                            # x will be 1.0
+y = float(2.8)                                          # y will be 2.8
+z = float("3")                                          # z will be 3.0
+w = float("4.2")                                        # w will be 4.2
+print(x)                                                # ans 1.0
+print(y)                                                # ans = 2.8
+print(z)                                                # ans = 3.0
+print(w)                                                # ans = 4.2
+
+# Strings:
+# str() - constructs a string from a wide variety of data types, including strings, integer literals and float literals
+
+
+x = str("s1")
+y = str(2)
+z = str(3.0)
+print(x)                                                # ans = s1
+print(y)                                                # ans = 2
+print(z)                                                # ans = 3.0
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
