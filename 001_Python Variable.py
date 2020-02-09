@@ -1,5 +1,6 @@
 # PYTHON VARIABLES
 
+# 
 # Create a Variable
 x = 5
 y = "John"
